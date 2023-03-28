@@ -19,7 +19,7 @@
 Đây là các bài lab thực hành của môn học Thiết kế hệ thống nhúng không dây.
 <h3>Danh sách các bài lab: </h3>
 
-[LAB 01](LAB01/readme.md): HELLO WORLD & CÀI ĐẶT CÔNG CỤ LẬP TRÌNH CHO ESP32  
+[LAB 01](LAB01): HELLO WORLD & CÀI ĐẶT CÔNG CỤ LẬP TRÌNH CHO ESP32  
 
  ## THÀNH VIÊN NHÓM 4
 | STT| Họ tên         | MSSV                 |
