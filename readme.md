@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## <h2 id="muctieu">Mục tiêu của môn học</h2>
 Đây là các bài lab thực hành của môn học Thiết kế hệ thống nhúng không dây.
-<h2>Danh sách các bài lab: </h2>
+<h3>Danh sách các bài lab: </h3>
 
 [LAB 01](LAB01/readme.md): HELLO WORLD & CÀI ĐẶT CÔNG CỤ LẬP TRÌNH CHO ESP32  
 
