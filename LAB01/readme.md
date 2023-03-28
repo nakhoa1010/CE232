@@ -1,4 +1,4 @@
-## [Home](../)
+## [Home](../readme.md)
 
 <h1><b>Lab 01:
 HELLO WORLD &
