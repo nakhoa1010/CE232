@@ -27,6 +27,6 @@
 | 1  | Nguyễn Anh Kiệt | 20521497
 | 2  | Nguyễn Anh Khoa | 20520930 |          
 | 3  | Vũ Hoàng Thiên Phú | 20521757 |         
-| 4  | Thân Quán Nguyên | 20521682    
+| 4  | Thân Quán Nguyên | 20521682   |
 
 
