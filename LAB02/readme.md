@@ -5,6 +5,6 @@
 
 [Source code Câu 2](../LAB02/Cau2/)
 
-[Source code Cau 3](../LAB02/Cau2/)
+[Source code Cau 3](../LAB02/Cau3/)
 
 ## [Link Youtube video demo cho Cau 2 va Cau 3](https://www.youtube.com/watch?v=vjHkE-DY7bc)
