@@ -7,4 +7,4 @@
 
 [Source code Cau 3](../LAB02/Cau2/)
 
-## [Link Youtube video demo]()
+## [Link Youtube video demo](https://www.youtube.com/watch?v=vjHkE-DY7bc)
