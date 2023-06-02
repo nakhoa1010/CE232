@@ -1,0 +1,5 @@
+source "K:/sofdwares/CE232/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "K:/sofdwares/CE232/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "K:/sofdwares/CE232/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "K:/sofdwares/CE232/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "K:/document_semesterI/CE/CE232/CE223/lab04/main/Kconfig.projbuild"

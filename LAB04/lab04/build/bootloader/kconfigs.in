@@ -1,0 +1,5 @@
+source "K:/sofdwares/CE232/esp/esp-idf/components/efuse/Kconfig"
+source "K:/sofdwares/CE232/esp/esp-idf/components/esp32/Kconfig"
+source "K:/sofdwares/CE232/esp/esp-idf/components/esp_common/Kconfig"
+source "K:/sofdwares/CE232/esp/esp-idf/components/log/Kconfig"
+source "K:/sofdwares/CE232/esp/esp-idf/components/spi_flash/Kconfig"
